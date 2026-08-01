@@ -83,7 +83,7 @@ http://localhost:8080/swagger-ui/index.html
 Clone the repository:
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/sanjay21-06/expense-tracker.git
 ```
 
 Go to the project:
