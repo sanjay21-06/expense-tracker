@@ -1,4 +1,4 @@
-# Smart Expense Tracker API
+Smart Expense Tracker API
 
 ## Overview
 
